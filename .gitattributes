@@ -1,0 +1,2 @@
+# Do not include git-specific files in exported .zip
+.git* export-ignore
