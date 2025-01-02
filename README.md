@@ -1,6 +1,6 @@
 # Example Tinted Model
 
-[Download the resource pack from the latest release](https://github.com/octo-org/octo-repo/releases/latest)
+[Download the resource pack from the latest release](https://github.com/AjaxGb/ExampleTintedModel/releases/latest)
 
 An example of a custom Minecraft item model that makes use of the new tint system.
 
