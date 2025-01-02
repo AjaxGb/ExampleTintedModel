@@ -1,0 +1,31 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "custom_tint:item/thingy_orb",
+    "layer1": "custom_tint:item/thingy_grip",
+    "layer2": "custom_tint:item/thingy_pommel",
+    "layer3": "custom_tint:item/thingy_base"
+  },
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [ 0, 90, 45 ],
+      "translation": [ 0, 2.5, 2.5 ],
+      "scale": [ 0.95, 0.95, 0.95 ]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [ 0, -90, -45 ],
+      "translation": [ 0, 2.5, 2.5 ],
+      "scale": [ 0.95, 0.95, 0.95 ]
+    },
+    "firstperson_righthand": {
+      "rotation": [ 0, 90, 25 ],
+      "translation": [ 0, 1.6, 0.8 ],
+      "scale": [ 0.76, 0.76, 0.76 ]
+    },
+    "firstperson_lefthand": {
+      "rotation": [ 0, -90, -25 ],
+      "translation": [ 0, 1.6, 0.8 ],
+      "scale": [ 0.76, 0.76, 0.76 ]
+    }
+  }
+}
